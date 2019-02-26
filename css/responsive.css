@@ -1,0 +1,340 @@
+@media (max-width: 1200px) {
+  .servicesfluid .services .btns {
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 100px; }
+
+  .pheadfluid {
+    min-height: 300px; }
+
+  .gic2 .tabele .col-md-2 h2 {
+    font-size: 13px; }
+
+  .gic2 .tabele .col-md-2 p {
+    font-size: 13px; }
+
+  .gic2 .tabela {
+    margin-top: 30px; } }
+@media (max-width: 991px) {
+  .yourgame .tabele .col-md-2:first-child h2, .yourgame .tabele .col-md-2:first-child p {
+    padding-left: 0; }
+
+  .yourgame .tabele {
+    margin-bottom: 15px; }
+
+  .yourgame h1 {
+    text-align: center; }
+
+  .yourgame .tabele .col-md-2 h2 {
+    display: block;
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-bottom: 17px;
+    border-bottom: 1px solid #222222; }
+
+  .yourgame .tabele .col-md-2 p {
+    width: 50%;
+    float: left;
+    text-align: center; }
+
+  .gic2 h1, .gic2 p, .gic2 h2 {
+    text-align: center; }
+
+  .gic2 .tabela {
+    margin-bottom: 70px; }
+
+  .gic2 .tabele {
+    margin-bottom: 15px; }
+    .gic2 .tabele h2 {
+      display: block;
+      border-bottom: 1px solid #222222; }
+
+  .gic2 .tabele .col-md-2 h2 {
+    width: 50%;
+    float: left; }
+
+  .gic2 .tabele .col-md-2 p {
+    width: 50%;
+    float: left; }
+
+  .findfadd .cont img {
+    margin: auto; }
+
+  .findfadd h1, .findfadd p {
+    text-align: center; }
+
+  .findfadd .cont .col-md-2, .findfadd .cont .col-md-2:first-child {
+    padding: 10px; }
+
+  .findfadd .nbtn {
+    text-align: center;
+    margin-bottom: 25px; }
+
+  .maphead .mapbtn a {
+    float: none; }
+
+  .maphead form {
+    margin-top: 50px; }
+
+  .maphead .mapbtn {
+    margin-top: 50px; }
+
+  .editprofile .nbtn {
+    text-align: center; }
+
+  .aboutfluid {
+    padding-bottom: 90px; }
+
+  .headfluid .col-md-3 input {
+    text-align: center; }
+
+  .headfluid .col-md-3 .fup p {
+    text-align: center; }
+
+  .headfluid .col-md-3 button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .headfluid .col-md-3 .crtica {
+    margin-left: auto;
+    margin-right: auto; }
+
+  .headfluid .col-md-3 .cta .fr, .headfluid .col-md-3 .cta .sc {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .headfluid .col-md-3 .crta2 {
+    display: none; }
+
+  .headfluid .col-md-3 .crta3 {
+    width: 100%;
+    height: 1px;
+    background: #676868;
+    margin-top: 20px;
+    margin-bottom: 20px; }
+
+  .headfluid {
+    padding-bottom: 120px; }
+
+  .servicesfluid .circlearrow .crtica {
+    margin: auto; }
+
+  .servicesfluid .services h2, .servicesfluid .services p, .servicesfluid .services h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .servicesfluid .services .serv i {
+    display: block;
+    text-align: center; }
+
+  .servicesfluid .services .serv img {
+    margin: auto; }
+
+  .servicesfluid .services .serv h3 {
+    text-align: center; }
+
+  .ourappfluid .ourapp .steps img, .ourappfluid .ourapp .steps2 img {
+    margin-top: 15px;
+    margin-bottom: 100px; }
+
+  .ourappfluid .ourapp .steps h3, .ourappfluid .ourapp .steps2 h3 {
+    margin-top: 0px; }
+
+  .ourappfluid .ourapp .steps h3, .ourappfluid .ourapp .steps h2, .ourappfluid .ourapp .steps p, .ourappfluid .ourapp .steps2 h3, .ourappfluid .ourapp .steps2 h2, .ourappfluid .ourapp .steps2 p {
+    text-align: center; }
+
+  .ourappfluid .ourapp .steps .servcrt, .ourappfluid .ourapp .steps2 .servcrt {
+    display: none; }
+
+  .conttesfluid .conttes {
+    width: 100%;
+    padding: 0; }
+
+  .conttesfluid .conttes .testomonial h1 {
+    text-align: center; }
+
+  .conttesfluid .conttes .testomonial .item p {
+    margin: auto;
+    text-align: center; }
+
+  .conttesfluid .conttes .testomonial .item h2 {
+    text-align: center; }
+
+  .conttesfluid .conttes .testomonial i {
+    display: none; }
+
+  .conttesfluid .conttes .contact .crtica {
+    position: absolute;
+    margin: auto;
+    margin-top: -50px;
+    margin-left: calc(50% - 16px); }
+
+  .conttesfluid .conttes .contact h2 {
+    margin: 0;
+    padding-top: 100px; }
+
+  .conttesfluid .conttes .contact form input, .conttesfluid .conttes .contact form textarea {
+    text-align: center;
+    max-width: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+  .conttesfluid .conttes .contact form button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block; }
+
+  .footer img {
+    display: block;
+    margin: auto; }
+
+  .footerfluid .footer ul {
+    text-align: center; }
+
+  .footerfluid .footer .secound {
+    text-align: center; }
+
+  .footerfluid .footer .first li:last-child {
+    margin-right: 0; }
+
+  .footerfluid .footer .secound li:first-child {
+    margin-left: 0; }
+
+  .signup .modal-content .crtica {
+    display: none; }
+
+  .signup .modal-content h1, .signup .modal-content h2, .signup .modal-content .forma input {
+    text-align: center; }
+
+  .signup .modal-content img {
+    display: none; }
+
+  .inviteplayers {
+    padding-top: 50px;
+    padding-bottom: 50px; }
+
+  .inviteplayers .ldiv {
+    float: none;
+    margin: auto;
+    margin-top: 50px; }
+
+  .inviteplayers .bbtn {
+    text-align: center;
+    margin-top: 50px; }
+
+  .invpltable .nbtn {
+    margin-top: 50px; } }
+@media (max-width: 768px) {
+  .maphead {
+    margin-top: 0px; }
+
+  .editprofile {
+    padding-bottom: 20px; }
+
+  .selectdivedit h3 {
+    font-size: 15px; }
+
+  .selectdivedit .styled-select {
+    height: 38px;
+    background-position: right 10px top 14px; }
+
+  .selectdivedit .styled-select select {
+    height: 35px;
+    font-size: 13px; }
+
+  .editprofile .formaedit .forma h1 {
+    font-size: 27px; }
+
+  .editprofile .formaedit .forma h2 {
+    font-size: 10px;
+    margin-bottom: 20px; }
+
+  .editprofile .uploadimg {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px; }
+
+  .editprofile p {
+    margin-bottom: 40px; }
+
+  .editprofile .nbtn {
+    margin-top: 30px; }
+
+  .editprofile .formaedit {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px; }
+
+  .pheadfluid {
+    margin-top: 0; }
+
+  p {
+    text-align: center !important; }
+
+  .ourpricingfluid .ourpricing .ops .col-md-4 .content {
+    padding: 20px 10px 20px 10px; }
+
+  .footerfluid .footer .first li {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 10px; }
+
+  .navbar-default-login .navbar-brand {
+    margin-top: 15px; }
+
+  .navbar-default-login {
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    border-radius: 0;
+    background: black; }
+
+  .inviteplayers {
+    padding-top: 100px; }
+
+  .navbar-default-login .navbar-nav {
+    background: black; }
+
+  .navbar-default-login .navbar-nav > li > a {
+    border: none;
+    color: white;
+    border-bottom: 2px solid black;
+    margin: 0; }
+
+  .navbar-default-login .navbar-nav > li {
+    border-bottom: none; } }
+@media (max-width: 660px) {
+  .inviteplayers form {
+    padding: 0; }
+
+  .profileflid ul li:nth-child(2) {
+    border: none; }
+
+  .profileflid ul li {
+    display: block;
+    text-align: center; }
+
+  .profileflid ul {
+    padding: 0;
+    margin: auto;
+    text-align: center; }
+
+  .profileflid {
+    padding-bottom: 30px; }
+
+  .tabs .nav-tabs > li > a {
+    padding-left: 10px;
+    padding-right: 10px; }
+
+  .tabs .nav-tabs > li.active > a, .tabs .nav-tabs > li.active > a:focus, .tabs .nav-tabs > li.active > a:hover {
+    padding-left: 10px;
+    padding-right: 10px; } }
+
+/*# sourceMappingURL=responsive.css.map */

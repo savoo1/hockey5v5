@@ -1,0 +1,52 @@
+// colors
+$whitecolor: #ffffff;
+$silvercolor: #676868;
+$textsilver: #848484;
+$redcolor: #e31b1b;
+$blackcolor: #222222;
+$sevicescolor: #f5f5f5;
+// colors
+
+// reset
+a:hover{
+	text-decoration: none;
+}
+// reset
+
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');// fonts
+
+
+
+/* 
+CSS
+*/
+.navbar-default{
+	background: transparent;
+}
+.navbar-default  .navbar-nav > li > a{
+	color: $textsilver;
+	border: 1px solid $textsilver;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-right:20px;
+	padding-left: 20px;
+	margin-left: 45px;
+	margin-top: 60px;
+	font-size: 12px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	border-bottom: 2px solid $redcolor;
+}
+.navbar-default .navbar-brand{
+	padding-top: 0;
+	margin-top: 50px;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+	border-bottom: 2px solid $redcolor;
+}
